@@ -36,11 +36,3 @@
         </a>
       
   </p>
-
-## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
-
-| My github statistics                                                                                                                            | Most used languages                                                                                                              | Streaks                                                                                 |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| ![Biruk Git Status](https://github-readme-stats.vercel.app/api?username=probiruk&show_icons=true&theme=dark&hide_title=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=probiruk&show_icons=true&theme=dark&hide_title=true) | ![probiruk](https://github-readme-streak-stats.herokuapp.com/?user=probiruk&theme=dark) |
-
-<br>
