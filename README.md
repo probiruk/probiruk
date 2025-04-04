@@ -19,6 +19,19 @@ With 5+ years of experience, I’ve helped teams design, build, and improve comp
 
 ---
 
+### 🌐 Connect with Me
+
+<p align="start">
+  <a href="https://www.upwork.com/freelancers/probiruk">
+    <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/>
+  </a>
+  <a href="https://github.com/probiruk">
+    <img src="https://img.shields.io/github/followers/probiruk?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" alt="GitHub Followers"/>
+  </a>
+</p>
+
+---
+
 ### 🛠 Tech Stack & Tools
 
 <p align="start">
@@ -39,15 +52,3 @@ With 5+ years of experience, I’ve helped teams design, build, and improve comp
 | -------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=probiruk&border=true&layout=compact&theme=transparent&langs_count=8&hide=jupyter%20notebook,css) 
 
----
-
-### 🌐 Connect with Me
-
-<p align="start">
-  <a href="https://www.upwork.com/freelancers/probiruk">
-    <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/>
-  </a>
-  <a href="https://github.com/probiruk">
-    <img src="https://img.shields.io/github/followers/probiruk?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" alt="GitHub Followers"/>
-  </a>
-</p>
