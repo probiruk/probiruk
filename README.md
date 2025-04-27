@@ -22,9 +22,9 @@ With 5+ years of experience, I’ve helped teams design, build, and improve comp
 ### 🌐 Connect with Me
 
 <p align="start">
-  <a href="https://www.upwork.com/freelancers/probiruk">
+<!--   <a href="https://www.upwork.com/freelancers/probiruk">
     <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/>
-  </a>
+  </a> -->
   <a href="https://github.com/probiruk">
     <img src="https://img.shields.io/github/followers/probiruk?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" alt="GitHub Followers"/>
   </a>
