@@ -16,6 +16,7 @@ With 5+ years of experience, I’ve helped teams design, build, and improve comp
 
 👉 [Check out my Upwork profile](https://www.upwork.com/freelancers/probiruk)  
 📬 Open to freelance or contract opportunities—let’s chat!
+
 ---
 
 ### 🌐 Connect with Me
@@ -50,4 +51,3 @@ With 5+ years of experience, I’ve helped teams design, build, and improve comp
 | Languages I Use Most |
 | -------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=probiruk&border=true&layout=compact&theme=transparent&langs_count=8&hide=jupyter%20notebook,css) 
-
