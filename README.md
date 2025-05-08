@@ -9,11 +9,6 @@ I work with tools like **React**, **Next.js**, **Vue**, **Node.js**, **MongoDB**
 
 With 5+ years of experience, I’ve helped teams design, build, and improve complex platforms that perform smoothly and scale with users.
 
-### 🚀 Some Highlights
-- 🧠 Built an AI survey engine that processed **50M+ responses** in real-time (MongoDB + WebSockets).
-- 💼 Engineered a large-scale job board with **100K+ users** and fast, ranked matching.
-- 📡 Designed distributed systems handling **thousands of concurrent users** reliably.
-
 ---
 
 ### 🌐 Connect with Me
