@@ -16,6 +16,7 @@ With 5+ years of experience, I’ve helped teams design, build, and improve comp
 <p align="start">
   <img src="https://skillicons.dev/icons?i=nextjs,react,vue,nodejs,express,mongodb,firebase,ts,js,tailwind,mui,docker,redis,aws,git,stripe" />
 </p>
+
 - **Frontend:** Next.js, React, Vue, Tailwind, MUI  
 - **Backend:** Node.js, Express, Firebase, AWS Cognito  
 - **Database:** MongoDB, Redis  
