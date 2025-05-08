@@ -11,16 +11,6 @@ With 5+ years of experience, I’ve helped teams design, build, and improve comp
 
 ---
 
-### 🌐 Connect with Me
-
-<p align="start">
-  <a href="https://github.com/probiruk">
-    <img src="https://img.shields.io/github/followers/probiruk?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" alt="GitHub Followers"/>
-  </a>
-</p>
-
----
-
 ### 🛠 Tech Stack & Tools
 
 <p align="start">
