@@ -14,9 +14,6 @@ With 5+ years of experience, I’ve helped teams design, build, and improve comp
 - 💼 Engineered a large-scale job board with **100K+ users** and fast, ranked matching.
 - 📡 Designed distributed systems handling **thousands of concurrent users** reliably.
 
-👉 [Check out my Upwork profile](https://www.upwork.com/freelancers/probiruk)  
-📬 Open to freelance or contract opportunities—let’s chat!
-
 ---
 
 ### 🌐 Connect with Me
