@@ -1,4 +1,4 @@
-**Top-Rated Plus Freelancer** (Top 1%) specializing in Full-Stack Web Development with 5+ years of experience building scalable, high-performance applications.
+**Top-Rated Plus Upwork Freelancer** (Top 1%) specializing in Full-Stack Web Development with 5+ years of experience building scalable, high-performance applications.
 
 Available for web development projects. I love collaborating on creative, impactful, and user-first projects.
 
